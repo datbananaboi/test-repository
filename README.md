@@ -1,4 +1,5 @@
 # test-repository
 
 test
-test2
+\ntest2
+\ntest3
