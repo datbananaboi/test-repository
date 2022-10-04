@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 This is a starter file to get you going. You may also include other files if you feel it's necessary.
 
