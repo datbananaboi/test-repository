@@ -15,4 +15,4 @@ Hints:
 import numpy as np
 
 # Your working code here
-print("Hello world!")
+print("The missile knows where it is at all times. It knows this because it knows where it isn't.")
