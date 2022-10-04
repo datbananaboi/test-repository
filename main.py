@@ -15,5 +15,19 @@ Hints:
 
 import numpy as np
 
+# Create a one dimensional array.
+# numpy arrays are of type ndarray
+# which we can create using np.array()
+array = np.array([5, 2])
+
+# Create a two dimensional array.
+# Commonly used to represent matrices.
+# This is a 3x3 matrix
+matrix = np.array([
+  [5, 3, 2],
+  [7, 8, 1],
+  [1, 2, 3]
+])
+
 # Your working code here
 print("The missile knows where it is at all times. It knows this because it knows where it isn't.")
